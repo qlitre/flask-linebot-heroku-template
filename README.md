@@ -5,4 +5,4 @@ Flaskを用いたLinebotのテンプレートです。
 
 # チュートリアル
 
-[Heroku + Flask + HerokuでLinebot APIを構築するメモ](https://qlitre-weblog.com/flask-linebot-backend-on-heroku/)
+[Flask + HerokuでLinebot APIを構築するメモ](https://qlitre-weblog.com/flask-linebot-api-on-heroku/)
